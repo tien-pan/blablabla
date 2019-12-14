@@ -10,6 +10,6 @@
 
 [alias]
     st = status
-
+    
 [core]
-    editor = C:\Users\User\AppData\Local\Programs\Microsoft VS Code\Code.exe -w
+    editor = C:\Users\User\AppData\Local\Programs\Microsoft VS Code\Code.exe -w 
